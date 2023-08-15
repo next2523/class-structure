@@ -8,6 +8,8 @@ public class App {
         goldenRetriever GoldenHayden = new goldenRetriever("Straight", 17, "Yellow", "Max", 267);
         goldenRetriever GoldenLevi = new goldenRetriever("Straight", 17, "Yellow", "Max", 267);
 
+        Dog DefaultHilary = new Dog(defaultHair, defaultAge, defaultEyeColor, defaultName, defaultLifeExpectancy);
+
         // System.out.println(Hilary.getDog() + "\n");
         // System.out.println(Hayden.getDog() + "\n");
         // System.out.println(Levi.getDog() + "\n");
